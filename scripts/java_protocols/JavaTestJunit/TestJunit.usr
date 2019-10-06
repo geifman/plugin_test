@@ -1,0 +1,26 @@
+[General]
+Type=JavaUT
+DefaultCfg=default.cfg
+LastActiveAction=Actions
+MajorVersion=12
+MinorVersion=50
+ParameterFile=
+GlobalParameterFile=
+RunType=Java-Interpreter
+NewFunctionHeader=1
+ActionLogicExt=action_logic
+DevelopTool=Vugen
+LastModifyVer=12.50.0.0
+ActiveTypes=JavaUT
+AdditionalTypes=JavaUT
+GenerateTypes=JavaUT
+[Actions]
+vuser_init=vuser_init.java
+Actions=Actions.java
+vuser_end=vuser_end.java
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[RunLogicFiles]
+Default Profile=default.usp

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\dananda\Documents\VuGen\Scripts\TruClient1
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\dananda\documents\vugen\scripts\truclient1\\logfile.log
+c:\users\dananda\documents\vugen\scripts\truclient1\\combined_TruClient1.c
+c:\users\dananda\documents\vugen\scripts\truclient1\\pre_cci.c

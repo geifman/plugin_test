@@ -1,0 +1,73 @@
+[General]
+Type=Multi
+DefaultCfg=default.cfg
+ParameterFile=41.prm
+GlobalParameterFile=
+NewFunctionHeader=1
+RunType=cci
+ActionLogicExt=action_logic
+MajorVersion=12
+MinorVersion=56
+LastActiveAction=Action
+ActiveTypes=QTWeb
+GenerateTypes=QTWeb
+AdditionalTypes=QTWeb
+DevelopTool=Vugen
+LastModifyVer=12.56.0.985
+ParamLeftBrace={
+ParamRightBrace=}
+ScriptLanguage=C
+DisableRegenerate=0
+Description=
+LastCodeGenerationVer=
+Encoding=
+ScriptLocale=en-US
+[Actions]
+vuser_init=vuser_init.c
+getmessagesashx=getmessagesashx.c
+checklogindataashx=checklogindataashx.c
+Action2=Action2.c
+vuser_end=vuser_end.c
+[RunLogicFiles]
+Default Profile=default.usp
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[ExtraFiles]
+globals.h=
+[Modified Actions]
+vuser_init=0
+getmessagesashx=1
+checklogindataashx=0
+Action2=0
+vuser_end=0
+[Recorded Actions]
+vuser_init=0
+getmessagesashx=0
+checklogindataashx=0
+Action2=0
+vuser_end=0
+[Replayed Actions]
+vuser_init=0
+getmessagesashx=0
+checklogindataashx=0
+Action2=0
+vuser_end=0
+[Interpreters]
+vuser_init=cci
+getmessagesashx=cci
+checklogindataashx=cci
+Action2=cci
+vuser_end=cci
+[TransactionsOrder]
+Order="/handlers/getmessages.ashx__*delimiter*__/handlers/checklogindata.ashx__*delimiter*__/postaround__*delimiter*__/handlers/getmessages.ashx"
+[StateManagement]
+LastReplayStatus=0
+[ActiveReplay]
+LastReplayedRunName=
+ActiveRunName=
+[Transactions]
+/handlers/getmessages.ashx=
+/handlers/checklogindata.ashx=
+/postaround=

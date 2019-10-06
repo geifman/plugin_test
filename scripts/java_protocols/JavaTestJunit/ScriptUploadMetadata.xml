@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>TestJunit</ScriptName>
+  <Protocol>Java Vuser for Continuous Delivery</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.java" Filter="2" />
+    <FileEntry Name="Actions.java" Filter="2" />
+    <FileEntry Name="vuser_end.java" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="TestJunit.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="user_binaries\" Filter="2" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="2" />
+  </GeneralFiles>
+</VugenScriptMetadata>

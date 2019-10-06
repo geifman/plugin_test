@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Desktop\KaliTC
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\administrator\desktop\kalitc\\logfile.log
+c:\users\administrator\desktop\kalitc\\combined_KaliTC.c
+c:\users\administrator\desktop\kalitc\\pre_cci.c

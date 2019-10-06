@@ -1,0 +1,12 @@
+lg_amount: 5
+group:
+  - group_name: "Flex_simple_parameters"
+    vusers: 500
+    script_path: "scripts\\Flex_simple_parameters"
+
+  - group_name: "FlightBook_Script"
+    vusers: 500
+    script_path: "scripts\\FlightBook_Script"
+scheduler:
+  rampup: 120
+  duration: 600

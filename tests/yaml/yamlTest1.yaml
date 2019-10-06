@@ -1,0 +1,63 @@
+#content:
+lg_amount: 5
+group:
+  - group_name: "mb1255"
+    vusers: 120
+    script_path: "scripts\\mb1255"
+  - group_name: "Mtours"
+    vusers: 120
+    script_path: "scripts\\Mtours"
+  - group_name: "300_transactions_Copy_1"
+    vusers: 120
+    script_path: "scripts\\300_transactions_Copy_1"
+  - group_name: "90_Web_MessagesPrint"
+    vusers: 120
+    script_path: "scripts\\90_Web_MessagesPrint"
+  - group_name: "Check_LG"
+    vusers: 120
+    script_path: "scripts\\Check_LG"
+  - group_name: "E2EFlow"
+    vusers: 120
+    script_path: "scripts\\E2EFlow"
+  - group_name: "Flex_simple_parameters"
+    vusers: 120
+    script_path: "scripts\\Flex_simple_parameters"
+  - group_name: "FlightBook_Script"
+    vusers: 120
+    script_path: "scripts\\FlightBook_Script"
+  - group_name: "FlightBook_Snapshot_On_Error"
+    vusers: 120
+    script_path: "scripts\\FlightBook_Snapshot_On_Error"
+  - group_name: "KaliTC"
+    vusers: 120
+    script_path: "scripts\\KaliTC"
+  - group_name: "kilimanjaro"
+    vusers: 120
+    script_path: "scripts\\kilimanjaro"
+  - group_name: "kilimanjaro2"
+    vusers: 120
+    script_path: "scripts\\kilimanjaro2"
+  - group_name: "kilimanjaro_tc"
+    vusers: 120
+    script_path: "scripts\\kilimanjaro_tc"
+  - group_name: "mb1255"
+    vusers: 120
+    script_path: "scripts\\mb1255"
+  - group_name: "Mtours1"
+    vusers: 120
+    script_path: "scripts\\Mtours"
+  - group_name: "Mtours2"
+    vusers: 120
+    script_path: "scripts\\Mtours2"
+  - group_name: "PC_DemoApp_May"
+    vusers: 120
+    script_path: "scripts\\PC_DemoApp_May"
+  - group_name: "PC_postaround1"
+    vusers: 120
+    script_path: "scripts\\PC_postaround1"
+  - group_name: "sample_http"
+    vusers: 120
+    script_path: "scripts\\sample_http"
+scheduler:
+  rampup: 120
+  duration: 600

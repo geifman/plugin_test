@@ -1,0 +1,8 @@
+[parameter:CorrID]
+ParamName="CorrID"
+IsEncrypt="NO"
+CurrentValue=""
+Type="Output"
+OriginalValue=""
+IsServer="NO"
+Prompt=""

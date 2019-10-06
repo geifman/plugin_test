@@ -1,0 +1,8 @@
+[parameter:CrediCardValues]
+Format="%08lu"
+GenerateNewVal="EachOccurrence"
+MaxValue="4294967295"
+MinValue="1"
+OriginalValue="12314124125151234"
+ParamName="CrediCardValues"
+Type="Random"

@@ -1,0 +1,14 @@
+group:
+  - group_name: "sample_http"
+    vusers: 3
+    script_path: "scripts\\sample_http"
+    lg_name:
+      - "LG1"
+  - group_name: " KaliTC"
+    vusers: 2
+    script_path: "scripts\\KaliTC"
+    lg_name:
+      - "LG1"
+scheduler:
+  rampup: 30
+  duration: 30

@@ -1,0 +1,21 @@
+Virtual User Script started at : 2017-12-03 16:54:34
+TruClient Replay (build 0584) for LoadRunner 12.56.0, build 0668. OS: Windows 2012 R2, Browser: Chromium, initialized on 2017/12/03 at 16:54:25 (0000.000s)
+Running Vuser...
+Starting iteration 1.
+t=00011902ms: ** 1: Navigate to "https://kalimanjaro/index.html" ** started    [MsgId: MMSG-205180]
+t=00013623ms: ** 1: Navigate to https://kalimanjaro/index.html ** successfully completed with end event 'Document Loaded'    [MsgId: MMSG-205180]
+t=00014131ms: ** 5: Click on All kind of CGI's. link ** started    [MsgId: MMSG-205180]
+t=00015348ms: ** 5: Click on All kind of CGI's. link ** successfully completed with end event 'Step synchronous network completed'    [MsgId: MMSG-205180]
+t=00015858ms: ** 7: Click on Example 10 link ** started    [MsgId: MMSG-205180]
+t=00016748ms: ** 7: Click on Example 10 link ** successfully completed with end event 'Step synchronous network completed'    [MsgId: MMSG-205180]
+t=00017253ms: ** 9: Select Take A Walk from what to do listbox ** started    [MsgId: MMSG-205180]
+t=00017643ms: ** 9: Select Take A Walk from what to do listbox ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]
+t=00018149ms: ** 11: Select Chouck from who to do it with listbox ** started    [MsgId: MMSG-205180]
+t=00018518ms: ** 11: Select Chouck from who to do it with listbox ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]
+t=00019023ms: ** 13: Multi Select Jeans,Wool Sweater,Sweatshirt,Socks from what to wear multi-listbox ** started    [MsgId: MMSG-205180]
+t=00019401ms: ** 13: Multi Select Jeans,Wool Sweater,Sweatshirt,Socks from what to wear multi-listbox ** successfully completed with end event 'Action completed'    [MsgId: MMSG-205180]
+t=00019909ms: ** 15: Click on Submit Choices button ** started    [MsgId: MMSG-205180]
+t=00020134ms: ** 15: Click on Submit Choices button ** successfully completed with end event 'Document Loaded'    [MsgId: MMSG-205180]
+Ending iteration 1.
+Ending Vuser...
+Vuser Terminated.

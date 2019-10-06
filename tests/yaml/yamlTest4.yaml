@@ -1,0 +1,16 @@
+group:
+  - group_name: "E2EFlow"
+    vusers: 10
+    script_path: "scripts\\E2EFlow"
+    lg_name:
+      - "LG1"
+      - "LG2"
+  - group_name: "Check_LG"
+    vusers: 30
+    script_path: "scripts\\Check_LG"
+    lg_name:
+      - "LG1"
+      - "LG3"
+scheduler:
+  rampup: 180
+  duration: 600

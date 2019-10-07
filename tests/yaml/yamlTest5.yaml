@@ -3,7 +3,7 @@ lg_amount: 3
 group:
 - #group_name: "JavaVuser_LR_Information_pacing_immediately_thinktime_ignore"
   vusers: 50
-  script_path: "scripts\\javascripts\\JavaHTTP_BigXML"
+  script_path: "scripts\\JavaHTTP_BigXML"
   command_line: "echo hello from JavaVuser_LR_Information_pacing_immediately_thinktime_ignore > c:\\hello_from_JavaVuser_LR_Information_pacing_immediately_thinktime_ignore.txt"
   rts:
     pacing:

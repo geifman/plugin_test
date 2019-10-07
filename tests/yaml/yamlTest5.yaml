@@ -22,7 +22,7 @@ group:
 
 - #group_name: "JavaHTTP_BigXML_pacing_fixed_delay_thinktime_replay"
   vusers: 50
-  script_path: "scripts\\javascripts\\JavaHTTP_BigXML"
+  script_path: "scripts\\JavaHTTP_BigXML"
   command_line: "echo hello from JavaHTTP_BigXML_pacing_fixed_delay_thinktime_replay > c:\\hello_from_JavaHTTP_BigXML_pacing_fixed_delay_thinktime_replay.txt"
   rts:
     pacing:
@@ -39,7 +39,7 @@ group:
 
 - group_name: "JavaVuser_LR_Information_immediately_pacing_random_delay_thinktime_modify"
   vusers: 50
-  script_path: "scripts\\javascripts\\JavaHTTP_BigXML"
+  script_path: "scripts\\JavaHTTP_BigXML"
   command_line: "echo hello from JavaVuser_LR_Information_immediately_pacing_random_delay_thinktime_modify > c:\\hello_from_JavaVuser_LR_Information_immediately_pacing_random_delay_thinktime_modify.txt"
   rts:
     pacing:
@@ -61,7 +61,7 @@ group:
 
 - group_name: "JavaHTTP_BigXML_pacing_fixed_interval_thinktime_random"
   vusers: 50
-  script_path: "scripts\\javascripts\\JavaHTTP_BigXML"
+  script_path: "scripts\\JavaHTTP_BigXML"
   command_line: "echo hello from JavaHTTP_BigXML_pacing_fixed_interval_thinktime_random > c:\\hello_from_JavaHTTP_BigXML_pacing_fixed_interval_thinktime_random.txt"
   rts:
     pacing:
@@ -83,7 +83,7 @@ group:
 
 - group_name: "JavaHTTP_BigXML_pacing_random_interval"
   vusers: 50
-  script_path: "scripts\\javascripts\\JavaHTTP_BigXML"
+  script_path: "scripts\\JavaHTTP_BigXML"
   command_line: "echo hello from JavaHTTP_BigXML_pacing_random_interval > c:\\hello_from_JavaHTTP_BigXML_pacing_random_interval.txt"
   rts:
     pacing:

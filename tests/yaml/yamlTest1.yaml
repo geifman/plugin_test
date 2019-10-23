@@ -1,7 +1,7 @@
 #content:
 lg_amount: 5
 group:
-  - group_name: "mb1255a"
+  - group_name: "mb1255a1"
     vusers: 120
     script_path: "scripts\\mb1255"
   - group_name: "Mtours"
